@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midnight Essays</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Midnight Essays</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 21:04:30 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Open-Source EHR</title>
+      <link>http://localhost:1313/posts/another-open-source-ehr/</link>
+      <pubDate>Sat, 11 Jan 2025 21:04:30 +0700</pubDate>
+      <guid>http://localhost:1313/posts/another-open-source-ehr/</guid>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;In the world of startups, healthcare startups are considered to be &amp;ldquo;tarpits&amp;rdquo;&#xA;due to regulation hurdles and huge Customer Acquistion Cost (CAC). Moreover,&#xA;there are numerous open-source alternatives in active development (e.g.&#xA;&lt;a href=&#34;https://www.open-emr.org/&#34;&gt;OpenEMR&lt;/a&gt; and &lt;a href=&#34;https://openmrs.org/&#34;&gt;OpenMRS&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;This begs the question why I am developing a new EHR product instead of&#xA;contributing to the existing ones. There are a couple of reasons for that:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Because I want to. I would like to see for myself how complex it can get.&#xA;This may be an exercise in futility but you will only know when you try.&lt;/li&gt;&#xA;&lt;li&gt;The more alternatives, the better. The beauty of open-source is that you can&#xA;stand on the shoulders of your predecessors to further the capabilities of&#xA;the software in a domain.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;That said, there are a few things I would like to achieve in this project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

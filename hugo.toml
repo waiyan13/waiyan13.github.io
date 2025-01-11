@@ -1,0 +1,8 @@
+baseURL = 'https://waiyan13.github.io/'
+languageCode = 'en-us'
+title = 'Midnight Essays'
+theme = 'archie'
+
+[params]
+  mode = 'dark'
+  useCDN = 'true'
