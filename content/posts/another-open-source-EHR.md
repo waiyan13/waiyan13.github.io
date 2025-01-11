@@ -24,6 +24,10 @@ That said, there are a few things I would like to achieve in this project.
 
 1. [FHIR](https://www.hl7.org/fhir) compliant. I want this project to be
    interoperable with existing systems by making data exchange possible.
+2. [ONC](https://www.healthit.gov/topic/certification-ehrs/certification-health-it)
+   compliant. There are other desirable certification such as [SOC 2 Type
+   II](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2)
+   but ONC certification will be the current focus.
 2. Excellent UX. The system should get out of the way of the practitioners in
    getting the answers.
 
