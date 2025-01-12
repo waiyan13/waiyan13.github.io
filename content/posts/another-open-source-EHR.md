@@ -22,7 +22,7 @@ That said, there are a few things I would like to achieve in this project.
 
 ## Goals
 
-1. [FHIR](https://www.hl7.org/fhir) compliant. I want this project to be
+1. [FHIR](https://www.hl7.org/fhir) compatiable. I want this project to be
    interoperable with existing systems by making data exchange possible.
 2. [ONC](https://www.healthit.gov/topic/certification-ehrs/certification-health-it)
    compliant. There are other desirable certification such as [SOC 2 Type
@@ -31,11 +31,11 @@ That said, there are a few things I would like to achieve in this project.
 2. Excellent UX. The system should get out of the way of the practitioners in
    getting the answers.
 
-My past work experiences in implementing patient appointment systems for two
-healthcare institutions of different size gave me some insights into healthcare
-industry in third world and developing countries. The purpose of this project
-is to give viable alternatives to the commercial solutions for the large and
-medium hospital in these countries.
+My past works in implementing patient appointment systems for two healthcare
+institutions of different size gave me some insights into healthcare industry
+in third world and developing countries. The purpose of this project is to give
+viable alternatives to the commercial solutions for the large and medium
+hospital in these countries.
 
-The next step is to decide scope of features and data modelling based on FHIR
+The next step is to decide list of features and design data models based on FHIR
 R5.
